@@ -1,4 +1,4 @@
-# Install S.I. Whaticket SaaS
+# Install Zapmatico SaaS
 
 ```bash
 sudo apt -y update && apt -y upgrade
